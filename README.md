@@ -1,4 +1,4 @@
-# Welcome to your Aora AI video sharing app 
+# Welcome to Aora AI video sharing app 
 
 This is an [Expo](https://expo.dev) project
 
